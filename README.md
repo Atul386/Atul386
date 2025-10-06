@@ -1,93 +1,99 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Atul Kamble</h1>
-<h3 align="center">Software Developer | iOS & Flutter Specialist | India 🇮🇳</h3>
+# 👨‍💻 ATUL KAMBLE  
+### Mobile Application Developer  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation"/>
-</p>
-
----
-
-### 🧑‍💻 About Me  
-- 🌱 Currently mastering **iOS Development** (Swift, SwiftUI, Core Data, AVFoundation)  
-- 💬 Skilled in **Flutter, Android, and cross-platform app development**  
-- 🚀 Passionate about building elegant mobile experiences with intuitive UX  
-- 📫 Reach me at **kambleatul66@gmail.com**  
-- ⚡ Fun fact: I debug faster with **coffee ☕ and calm music 🎧**
+📍 Mumbai, India  
+📧 [kambleatul66@gmail.com](mailto:kambleatul66@gmail.com)  
+📞 +91 7410101423  
+🌐 [GitHub: Atul386](https://github.com/Atul386)
 
 ---
 
-### 🤝 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/atul-kamble-2aba61199" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="mailto:kambleatul66@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-</a>
-<a href="https://github.com/atul386" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
-</a>
-</p>
+### 💼 Professional Summary  
+Mobile Application Developer with expertise in **iOS (Swift)** and **Flutter (Dart)**, experienced in building **high-quality, scalable apps** across platforms. Proficient in tools like **Firebase, Core Data, Stripe, and Google Maps API**, focusing on **clean UI/UX design** and **seamless performance**. Passionate about solving real-world problems through efficient, maintainable, and modern code.
 
 ---
 
-### ⚙️ Tech Stack  
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/xcode.svg" alt="xcode" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/design/human-interface-guidelines/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="apple" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
+### 🧠 Technical Skills  
+**Languages:** Swift, Dart, Kotlin, C  
+**Frameworks:** Flutter, UIKit, SwiftUI, CoreData  
+**Tools:** Xcode, Android Studio, Postman, Photoshop  
+**APIs & SDKs:** Firebase, Google Maps, Stripe, Razorpay  
+**Version Control:** Git, GitHub  
+**Other Expertise:** Core Animation, Core Graphics, MVVM, REST APIs, JSON  
 
 ---
 
-### 🧩 Featured Projects  
-- ⚖️ **Lawyer Connect** — Flutter + Firebase + Razorpay for secure client-lawyer payments  
-- 💬 **Chat App** — WhatsApp-style messaging with image sharing, timestamps, and Stripe integration  
-- 🩸 **Bluetooth Glucose Monitor (iOS)** — Core Data storage, CT3/CT4 Bluetooth sensors, custom algorithm  
-- 🎬 **Video Watermark App (iOS)** — Compress, watermark, and export videos using AVFoundation  
+### 💼 Work Experience  
+
+#### 🚀 iOS Developer — *Adstringo Software Pvt. Ltd.*  
+📍 Navi Mumbai | 🗓 May 2025 – Present  
+
+- Led the development of a **cross-platform file compression framework** for images, videos, and other file types — improving app performance and storage efficiency.  
+- Integrated the framework into **iOS, Flutter, Capacitor, and React Native** apps.  
+- Built high-quality **UI components using Core Data, Core Graphics, and Core Animation.**  
+- Managed the complete **App Store release process**, including metadata and optimization.  
+- Mentored junior developers and introduced tools to streamline development workflows.  
+- Experimented with **Swift Concurrency, CoreML, and ARKit**, incorporating advanced iOS features into production apps.  
 
 ---
 
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul386&show_icons=true&theme=github_dark&hide_border=true" alt="Atul's GitHub stats" />
-</p>
+#### 💡 Flutter Developer — *Sensys Technologies Pvt. Ltd.*  
+📍 Goregaon, Mumbai | 🗓 Aug 2024 – May 2025  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul386&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+**Project:** HRMTHREAD Mobile App — an employee self-service application for HR operations.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atul386&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atul386&theme=onedark&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-</p>
+**Key Contributions:**  
+- Developed essential iOS/Android modules: **Employee Profile, GPS Attendance, and Leave Management.**  
+- Fixed **real-time location and GPS tracking issues** for accurate attendance logging.  
+- Integrated **push notifications** for reminders and approval updates.  
+- Enabled **HOD approvals** for On-Duty, Overtime, and Attendance requests.  
+- Implemented **secure access** for digital payslips and HR documents.  
 
 ---
 
-### 💡 Quote I Live By  
-> *“Code is like humor. When you have to explain it, it’s bad.”* — **Cory House**
+### 📱 Projects  
+
+**🗒 NotesApp (iOS)** — *Jul 2024 – Present*  
+- Built a **Swift-based iOS Notes App** with **CoreData** for offline storage.  
+- Enabled note creation, editing, and task prioritization (**Low / Medium / High**).  
+- Designed a **minimal and intuitive UI** for smooth user experience.  
+
+**💬 Aviary Chat App (Flutter)**  
+- Developed a **real-time messaging app** with image sharing, emojis, and chat timestamps.  
+- Integrated **Firebase Authentication, Realtime DB, and Storage** for secure communication.  
+- Added **Stripe payment support** and **custom in-app notifications.**  
+- Designed a sleek **cross-platform UI** with adaptive layouts.  
 
 ---
 
-### 🍏 Fun iOS Fact  
-> The first iPhone shipped with **just 128 MB of RAM** — now we create apps that outperform entire computers.
+### 🎓 Education  
+
+**Master of Management Studies (MMS) — Systems Specialization**  
+📍 *Mumbai University* | 📅 Jul 2024 – May 2025  
+
+**Bachelor of Technology (B.Tech.) — Mechanical Engineering**  
+📍 *Dr. Babasaheb Ambedkar Technological University (DBATU)* | 📅 Jul 2020 – May 2024  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atul386&label=Profile+Views&color=grey&style=flat" alt="profile views" />
-</p>
+### 🧾 Certifications  
+- **iOS & Swift — The Complete App Development Course (Apple Developer)**  
+- **The Complete Flutter Development Bootcamp with Dart**  
+
+---
+
+### 💬 Soft Skills  
+Team Leadership | Debugging | Problem Solving | Code Optimization | Agile Workflow | Mentorship  
+
+---
+
+### 🌟 Interests  
+- Exploring AI in mobile apps (CoreML, TensorFlow Lite)  
+- UI/UX design principles  
+- Automation tools and API integrations  
+
+---
+
+> *“Code is like art — simple, elegant, and expressive.”* 🎯  
+
 
