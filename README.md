@@ -104,7 +104,7 @@ I believe that *"Code is like art — simple, elegant, and expressive."* 🎯
 📍 *Mumbai University* | 🗓 Jul 2024 – May 2025  
 
 🎓 **B.Tech – Mechanical Engineering**  
-📍 *Dr. Babasaheb Ambedkar Technological University (DBATU)* | 🗓 Jul 2020 – May 2024  
+📍 *Dr. Babasaheb Ambedkar Technological University (DBATU)* | 🗓 Jul 2016 – May 2024  
 
 ---
 
