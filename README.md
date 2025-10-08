@@ -1,99 +1,160 @@
-# 👨‍💻 ATUL KAMBLE  
-### Mobile Application Developer  
+<!-- 🌐 ATUL KAMBLE – Modern GitHub Portfolio README -->
+
+<!-- HEADER SECTION -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:000000&height=180&section=header&text=👨‍💻%20Atul%20Kamble&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+
+<h3>🚀 Mobile Application Developer | iOS (Swift, Objective-C) & Flutter (Dart)</h3>
 
 📍 Mumbai, India  
-📧 [kambleatul66@gmail.com](mailto:kambleatul66@gmail.com)  
-📞 +91 7410101423  
-🌐 [GitHub: Atul386](https://github.com/Atul386)
+📧 <a href="mailto:kambleatul66@gmail.com">kambleatul66@gmail.com</a> | 📞 +91 7410101423  
+🌐 <a href="https://github.com/Atul386">GitHub: Atul386</a>  
 
 ---
 
-### 💼 Professional Summary  
-Mobile Application Developer with expertise in **iOS (Swift)** and **Flutter (Dart)**, experienced in building **high-quality, scalable apps** across platforms. Proficient in tools like **Firebase, Core Data, Stripe, and Google Maps API**, focusing on **clean UI/UX design** and **seamless performance**. Passionate about solving real-world problems through efficient, maintainable, and modern code.
+</div>
+
+<!-- ABOUT SECTION -->
+## 💼 About Me
+
+👋 Hi! I’m **Atul Kamble**, a passionate **Mobile Application Developer** who loves crafting **intuitive, fast, and scalable apps**.  
+With expertise in **iOS (Swift, Objective-C)** and **Flutter (Dart)**, I specialize in building products that blend performance and design.  
+I believe that *"Code is like art — simple, elegant, and expressive."* 🎯  
 
 ---
 
-### 🧠 Technical Skills  
-**Languages:** Swift, Dart, Kotlin, C  
-**Frameworks:** Flutter, UIKit, SwiftUI, CoreData  
-**Tools:** Xcode, Android Studio, Postman, Photoshop  
-**APIs & SDKs:** Firebase, Google Maps, Stripe, Razorpay  
-**Version Control:** Git, GitHub  
-**Other Expertise:** Core Animation, Core Graphics, MVVM, REST APIs, JSON  
+<!-- SKILLS SECTION -->
+## 🧠 Tech Stack
+
+<div align="center">
+
+### 🖥️ Languages & Frameworks  
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438eff?style=for-the-badge&logo=apple&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-### 💼 Work Experience  
+<!-- EXPERIENCE SECTION -->
+## 💼 Experience
 
-#### 🚀 iOS Developer — *Adstringo Software Pvt. Ltd.*  
-📍 Navi Mumbai | 🗓 May 2025 – Present  
+### 🚀 **Adstringo Software Pvt. Ltd.** — *iOS Developer*  
+📍 Navi Mumbai | 🗓 **May 2025 – Present**
 
-- Led the development of a **cross-platform file compression framework** for images, videos, and other file types — improving app performance and storage efficiency.  
-- Integrated the framework into **iOS, Flutter, Capacitor, and React Native** apps.  
-- Built high-quality **UI components using Core Data, Core Graphics, and Core Animation.**  
-- Managed the complete **App Store release process**, including metadata and optimization.  
-- Mentored junior developers and introduced tools to streamline development workflows.  
-- Experimented with **Swift Concurrency, CoreML, and ARKit**, incorporating advanced iOS features into production apps.  
-
----
-
-#### 💡 Flutter Developer — *Sensys Technologies Pvt. Ltd.*  
-📍 Goregaon, Mumbai | 🗓 Aug 2024 – May 2025  
-
-**Project:** HRMTHREAD Mobile App — an employee self-service application for HR operations.  
-
-**Key Contributions:**  
-- Developed essential iOS/Android modules: **Employee Profile, GPS Attendance, and Leave Management.**  
-- Fixed **real-time location and GPS tracking issues** for accurate attendance logging.  
-- Integrated **push notifications** for reminders and approval updates.  
-- Enabled **HOD approvals** for On-Duty, Overtime, and Attendance requests.  
-- Implemented **secure access** for digital payslips and HR documents.  
+- Built **AdStringO Mobile Platform**, the world’s fastest endpoint compression app.  
+- Integrated iOS Framework into **Flutter, Capacitor, React Native, and Cordova** platforms.  
+- Managed **App Store deployments** and release automation.  
+- Designed UIs with **Core Data, Core Graphics, Core Animation** for high performance.
 
 ---
 
-### 📱 Projects  
+### 💡 **Sensys Technologies Pvt. Ltd.** — *Software Developer*  
+📍 Goregaon, Mumbai | 🗓 **Jun 2024 – May 2025**
 
-**🗒 NotesApp (iOS)** — *Jul 2024 – Present*  
-- Built a **Swift-based iOS Notes App** with **CoreData** for offline storage.  
-- Enabled note creation, editing, and task prioritization (**Low / Medium / High**).  
-- Designed a **minimal and intuitive UI** for smooth user experience.  
-
-**💬 Aviary Chat App (Flutter)**  
-- Developed a **real-time messaging app** with image sharing, emojis, and chat timestamps.  
-- Integrated **Firebase Authentication, Realtime DB, and Storage** for secure communication.  
-- Added **Stripe payment support** and **custom in-app notifications.**  
-- Designed a sleek **cross-platform UI** with adaptive layouts.  
+- Built HRMTHREAD modules: **Employee Profile**, **GPS Attendance**, **Leave Management**.  
+- Integrated **push notifications**, **approval workflows**, and improved GPS accuracy.  
+- Enabled secure access to **digital payslips and HR documents**.  
 
 ---
 
-### 🎓 Education  
+### 🧩 **Content Shark Pvt. Ltd.** — *Software Developer*  
+📍 Mumbai | 🗓 **Apr 2023 – Jun 2024**
 
-**Master of Management Studies (MMS) — Systems Specialization**  
-📍 *Mumbai University* | 📅 Jul 2024 – May 2025  
-
-**Bachelor of Technology (B.Tech.) — Mechanical Engineering**  
-📍 *Dr. Babasaheb Ambedkar Technological University (DBATU)* | 📅 Jul 2020 – May 2024  
-
----
-
-### 🧾 Certifications  
-- **iOS & Swift — The Complete App Development Course (Apple Developer)**  
-- **The Complete Flutter Development Bootcamp with Dart**  
+- Created modules for **Lawyer Search**, **In-App Messaging**, and **Secure Payments**.  
+- Integrated **Stripe & PayPal APIs**; designed interfaces using **Figma**.  
+- Built **real-time chat** with **Firebase (Auth, Firestore)** and **Node.js backend**.  
 
 ---
 
-### 💬 Soft Skills  
+<!-- PROJECTS SECTION -->
+## 📱 Featured Projects  
+
+### ⚙️ **AdStringO Mobile Platform (iOS)**
+- BFSI sector app handling **Images, Videos, and PDFs** with watermarking.  
+- Integrated **target-size optimization** for 2G/3G networks.  
+- Managed **App Store releases** and secure data uploads.  
+
+### 🗒 **NotesApp (iOS)**
+- Swift-based Notes app using **CoreData** for offline storage.  
+- Supports **note creation, editing, prioritization**, and smooth UI.  
+
+### 💬 **Aviary Chat App (Flutter)**
+- **Real-time messaging app** with image sharing, emojis, timestamps.  
+- Integrated **Firebase**, **Stripe Payments**, and custom in-app notifications.  
+
+---
+
+<!-- EDUCATION SECTION -->
+## 🎓 Education  
+
+🎓 **MMS – Systems Specialization**  
+📍 *Mumbai University* | 🗓 Jul 2024 – May 2025  
+
+🎓 **B.Tech – Mechanical Engineering**  
+📍 *Dr. Babasaheb Ambedkar Technological University (DBATU)* | 🗓 Jul 2020 – May 2024  
+
+---
+
+<!-- CERTIFICATIONS SECTION -->
+## 🧾 Certifications  
+
+- 🎖 **iOS & Swift – Infosys Springboard / Codecademy**  
+- 🎖 **Flutter Development Bootcamp with Dart**  
+
+---
+
+<!-- SOFT SKILLS -->
+## 💬 Soft Skills  
+
 Team Leadership | Debugging | Problem Solving | Code Optimization | Agile Workflow | Mentorship  
 
 ---
 
-### 🌟 Interests  
-- Exploring AI in mobile apps (CoreML, TensorFlow Lite)  
-- UI/UX design principles  
-- Automation tools and API integrations  
+<!-- INTERESTS SECTION -->
+## 🌟 Interests  
+
+💡 AI in Mobile Apps (CoreML, TensorFlow Lite)  
+🎨 UI/UX Design Principles  
+🌍 Website Building & Automation Tools  
 
 ---
 
-> *“Code is like art — simple, elegant, and expressive.”* 🎯  
+<!-- STATS -->
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atul386&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul386&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00BFFF&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together.🚀" />
+</p>
+
+</div>
+
+ 
 
 
